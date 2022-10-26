@@ -1,0 +1,1 @@
+# next.jsとnext.jsでgraphqlを使ってみようというリポジトリです。
